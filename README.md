@@ -6,7 +6,7 @@
 
 ## 📂 Featured Repositories
 - 🔍 [`oracle-dba-portfolio`](https://github.com/hectorsenabnjo/oracle-dba-portfolio): Advanced Oracle SQL queries (Joins, Subqueries, functions)
-- 📈 [`networking-portfoliob`](https://github.com/your_username/networking-portfolio): SolarWinds lab simulations, NetFlow configs, SNMP, etc
+- 📈 [`networking-portfolio`](https://github.com/hectorsenbanjo/networking-portfolio): SolarWinds lab simulations, NetFlow configs, SNMP, etc
 
 ## 💰 Support My Work
 If my projects help you, consider supporting me.
