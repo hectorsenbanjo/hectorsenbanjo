@@ -5,7 +5,7 @@
 🛠 Currently building a portfolio of Oracle SQL solutions using the HR schema
 
 ## 📂 Featured Repositories
-- 🔍 [`oracle-sql-dba-portfolio`](https://github.com/hectorsenbanjo/oracle-dba-portfolio): Advanced Oracle SQL queries (Joins, Subqueries, functions)
+- 🔍 [`oracle-sql-portfolio`](https://github.com/hectorsenbanjo/oracle-dba-portfolio): Advanced Oracle SQL queries (Joins, Subqueries, functions)
 - 📈 [`ccna-networking-portfolio`](https://github.com/hectorsenbanjo/ccna-networking-portfolio): PacketTracer/GNS3 lab simulations, VPNs, NetFlow configs, SNMP, etc 
 - 📈 [`networking-portfolio`](https://github.com/hectorsenbanjo/networking-portfolio): SolarWinds lab simulations, NetFlow configs, SNMP, etc
 
